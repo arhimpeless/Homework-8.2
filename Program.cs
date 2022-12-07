@@ -6,6 +6,7 @@
         {
             Random random = new Random();
 
+
             Area area1 = new Area();
             area1.numberPeople = random.Next(1, 5);
             area1.length = random.Next(1,30);
